@@ -1,9 +1,9 @@
 # CleanCode
 
 `Nomad Coders` 북클럽 첼린지 ☑️ <br/>
-https://nomadcoders.co/clean-code
+https://nomadcoders.co/clean-code <br/>
 Currently, reading a CleanCode through Nomad Coders BookClub Challenge. <br/>
-CleanCodeを読みながら記録中です。
+CleanCodeを読みながら記録中です。<br/>
 
 # Challenge
 
