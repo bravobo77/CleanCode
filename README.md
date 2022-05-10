@@ -15,3 +15,5 @@ CleanCodeを読みながら記録中です。<br/>
 |4|2022.04.25|Assignment #04|나의 최애 북TIL|☑️|
 |5|2022.04.26~27|Assignment #05|[제 3장 함수](https://github.com/bravobo77/CleanCode/tree/main/%EC%A0%9C%203%EC%9E%A5%20%ED%95%A8%EC%88%98)|☑️|
 |6|2022.04.28~29|Assignment #06|[제 4장 주석](https://github.com/bravobo77/CleanCode/tree/main/%EC%A0%9C%204%EC%9E%A5%20%EC%A3%BC%EC%84%9D)|☑️|
+|7|2022.04.30|Assignment #07|[CleanCode Test](https://github.com/bravobo77/CleanCode/tree/main/Assignment%20Test)|☑️|
+|8|2022.05.01~02|Assignment #08|[제 8장 형식 맞추기](https://github.com/bravobo77/CleanCode/tree/main/%EC%A0%9C%205%EC%9E%A5%20%ED%98%95%EC%8B%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0)|☑️|
