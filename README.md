@@ -18,5 +18,5 @@ CleanCodeを読みながら記録中です。<br/>
 |7|2022.04.30|Assignment #07|[CleanCode Test](https://github.com/bravobo77/CleanCode/tree/main/Assignment%20Test)|☑️|
 |8|2022.05.01~02|Assignment #08|[제 5장 형식 맞추기](https://github.com/bravobo77/CleanCode/tree/main/%EC%A0%9C%205%EC%9E%A5%20%ED%98%95%EC%8B%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0)|☑️|
 |9|2022.05.03|Assignment #09||❎|
-|10|2022.05.04|Assignment #10|❎|
+|10|2022.05.04|Assignment #10||❎|
 |11|2022.05.05~0.6|Assignment #11|[제 7장 오류처리](https://github.com/bravobo77/CleanCode/tree/main/%EC%A0%9C%207%EC%9E%A5%20%EC%98%A4%EB%A5%98%EC%B2%98%EB%A6%AC)|☑️|
