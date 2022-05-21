@@ -24,3 +24,8 @@ CleanCodeを読みながら記録中です。<br/>
 |13|2022.05.09|Assignment #13|Quiz|☑️|
 |14|2022.05.10~11|Assignment #14|[제 10장](https://github.com/bravobo77/CleanCode/tree/main/%EC%A0%9C%2010%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4)|☑️|
 |15|2022.05.12~13|Assignment #15|Code Test|❎|
+
+# Challenge Result
+success! 成功！성공!<br/>
+<img width="98" alt="스크린샷 2022-05-21 23 45 16" src="https://user-images.githubusercontent.com/39156670/169656799-038cd132-8f6a-40a0-95ed-17459c79ac7d.png">
+
